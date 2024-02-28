@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vadivelan1998@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Co2j8QA754a88x_8B14ktjqtbrGJunZdP-S_Gik92PY/edit?usp=sharing](https://docs.google.com/document/d/1Co2j8QA754a88x_8B14ktjqtbrGJunZdP-S_Gik92PY/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x9OUTuG_VenYdgR5EOmBsRJWGzzEj-fl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
