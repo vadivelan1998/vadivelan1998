@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ssvelu3" target="blank"><img src="https://img.shields.io/twitter/follow/ssvelu3?logo=twitter&style=for-the-badge" alt="ssvelu3" /></a> </p>
 
-- 🌱 Full Stack Developer with a specilization in**MERN Stack**
+- 🌱 Full Stack Developer with a specilization in **MERN Stack**
 
 - 💬 Ask me about **React,Express,MongoDB,NodeJS,Javascript**
 
